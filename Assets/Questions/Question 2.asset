@@ -10,7 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b1835cba158068e4ca6454c33c964bd9, type: 3}
-  m_Name: Question 4
+  m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: In Kirby Fighters 2's story mode, how much health does an energy drink
-    restore?
+  question: how many energy spheres can be collected in Kirby's Return to Dream Land?
+  answers:
+  - 150
+  - 110
+  - 120
+  - 147
+  correctAnswerIndex: 2
